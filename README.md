@@ -16,4 +16,6 @@ Simple Chrome Extension that helps you save useful Links and Tabs
 8. You can see it on your Chrome by clicking the Extensions icon at the top right corner.
 9. Pin the extension for easier access.
 
+##### Also note that this extension makes use of local storage so be sure to back up your links before you clear your browser cache.
+
 I hope you enjoy using it ;)
