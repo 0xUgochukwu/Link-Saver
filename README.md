@@ -4,7 +4,7 @@ Simple Chrome Extension that helps you save useful Links and Tabs
 
 ## How to Set Up
 
-*NB:* The following instructions demonstrates the setup using chrome but the set up is similar to other browsers
+**NB:** The following instructions demonstrates the setup using Chrome browser but the set up is similar to other browsers.
 
 1. Create a folder on your local machine and `cd` into it using your terminal.
 2. Clone this repository into your local machine running this command `$ git clone https://github.com/0xUgochukwu/Link-Saver.git`.
